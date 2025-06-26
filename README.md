@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shajith</h1>
--  I’m currently learning **Python**
-
-
-- I'm current doing BCA Degree
    
 <img align="right" alt="coding" width="300" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif">
 - 📫 How to reach me **shajithkhan42@gmail.com**
